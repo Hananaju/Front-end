@@ -7,13 +7,42 @@ p {
 }
 
 body {
-    background: #cccccc
+    
 }
 
 #banner {
-    width: 100%
+    width: 100%;
 }
 
-h1 {
-    text-align: center
+.principal {
+    background: #cccccc;
+    padding: 30px;
+}
+
+.main-title {
+    padding-left: 20px;
+}
+
+.centralized-title {
+    text-align: center;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #ffffff;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imgbene {
+    width: 50%;
 }
